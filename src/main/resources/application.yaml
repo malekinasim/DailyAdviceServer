@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: DailyAdviceServer
+dailyServer:
+      port: 5001
+ollama:
+  apiKey: e967dff006d54d73aabb2a36c45cced6.tSMldGXD86MHiiJKyZBGoKHe
